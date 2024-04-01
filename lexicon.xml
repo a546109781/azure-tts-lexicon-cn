@@ -41,6 +41,11 @@
   <!--F-->
   <!--G-->
   <lexeme>
+    <grapheme>格瑞德</grapheme>
+    <phoneme>ge 2 rui 4 de 2 5</phoneme>
+  </lexeme>
+  
+  <lexeme>
     <grapheme>四更天</grapheme>
     <phoneme>si 4 geng 1 tian 1</phoneme>
   </lexeme>
@@ -103,6 +108,10 @@
     <phoneme>ma 2 le 5</phoneme>
   </lexeme>
   <!--N-->
+  <lexeme>
+    <grapheme>你好</grapheme>
+    <phoneme>ni 3 hao 3 5</phoneme>
+  </lexeme>
   <!--O-->
   <!--P-->
   <!--Q-->
@@ -112,6 +121,10 @@
   <!--U-->
   <!--V-->
   <!--W-->
+  <lexeme>
+    <grapheme>温蕾萨</grapheme>
+    <phoneme>wen 1 lei 2 5 sa 4</phoneme>
+  </lexeme>
   <!--X-->
   <lexeme>
     <grapheme>行了</grapheme>
